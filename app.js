@@ -20,4 +20,5 @@ function addTask(event){
     ul.appendChild(li)
     event.preventDefault()
     taskInput.value = ""
+
 }
